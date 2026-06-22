@@ -15,3 +15,7 @@ The hydration reminder feature supports timezone-aware notification scheduling f
 ## Engineering Workflow
 
 Engineering work is tracked in GitHub while Product, QA, and release stakeholders manage visibility and execution in ClickUp.
+
+## ClickUp GitHub Integration Demo
+
+This update was made to demonstrate creating a branch, commit, and pull request connected to a ClickUp task.
